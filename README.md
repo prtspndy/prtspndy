@@ -38,6 +38,18 @@ These technologies reflect the projects and learning repositories currently
 visible on my profile, not a fixed list. I expect this section to grow with my
 experience.
 
+## GitHub activity
+
+GitHub's contribution graph appears automatically on my profile. The cards
+below add a compact view of recent activity and repository languages.
+
+![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prtspndy&theme=github)
+
+![Repository languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prtspndy&theme=github)
+![GitHub contribution streak](https://streak-stats.demolab.com?user=prtspndy&theme=default&hide_border=true)
+
+![Profile views](https://komarev.com/ghpvc/?username=prtspndy&label=Profile%20views&color=0e75b6&style=flat)
+
 ## Featured work
 
 ### [GlobeTrotter](https://github.com/prtspndy/GlobeTrotter)
