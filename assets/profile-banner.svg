@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Pritesh Pandya profile banner</title>
+  <desc id="description">Pritesh Pandya - Open Source Contributor and Product Builder</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090909"/>
+      <stop offset="0.58" stop-color="#160b0d"/>
+      <stop offset="1" stop-color="#2b0d12"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.84" cy="0.18" r="0.76">
+      <stop offset="0" stop-color="#b51f32" stop-opacity="0.42"/>
+      <stop offset="0.48" stop-color="#6f1422" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#090909" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d64758"/>
+      <stop offset="1" stop-color="#6f1422" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
+  <path d="M0 268 C250 244 380 300 620 266 S980 190 1200 232" fill="none" stroke="#7d1a29" stroke-opacity="0.28" stroke-width="2"/>
+  <path d="M72 236 H380" stroke="url(#line)" stroke-width="3"/>
+  <circle cx="1080" cy="74" r="92" fill="none" stroke="#b51f32" stroke-opacity="0.12"/>
+  <circle cx="1080" cy="74" r="64" fill="none" stroke="#b51f32" stroke-opacity="0.1"/>
+  <text x="72" y="142" fill="#f8f5f5" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="5">PRITESH PANDYA</text>
+  <text x="74" y="190" fill="#d8b4b8" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="1.6">OPEN SOURCE CONTRIBUTOR &amp; PRODUCT BUILDER</text>
+</svg>

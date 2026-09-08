@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Pritesh Pandya - Open Source Contributor and Product Builder" width="100%">
+</p>
+
 # Pritesh Pandya
 
 I am a developer from Rajkot, Gujarat, India, building a strong foundation in
@@ -92,3 +96,5 @@ existing projects, and share useful experiments and open-source work.
 - [YouTube](https://youtube.com/@priteshpandya-20)
 
 Thanks for visiting and exploring my work.
+
+![GitHub contribution activity for prtspndy](https://ghchart.rshah.org/40c463/prtspndy)
