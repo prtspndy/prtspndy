@@ -1,0 +1,34 @@
+name: Refresh GitHub activity charts
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@v4
+
+      - name: Update chart cache keys
+        env:
+          REFRESH_KEY: ${{ github.run_id }}
+        run: |
+          sed -i -E "s/(refresh=)[^&)]*/\1${REFRESH_KEY}/g" README.md
+
+      - name: Commit refreshed chart URLs
+        run: |
+          if git diff --quiet -- README.md; then
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Refresh GitHub activity charts"
+          git push

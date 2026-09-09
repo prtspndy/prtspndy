@@ -49,12 +49,12 @@ experience.
 GitHub's contribution graph appears automatically on my profile. The cards
 below add a compact view of recent activity and repository languages.
 
-![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prtspndy&theme=github)
+![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prtspndy&theme=github&refresh=initial)
 
-![Repository languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prtspndy&theme=github)
-![GitHub contribution streak](https://streak-stats.demolab.com?user=prtspndy&theme=default&hide_border=true)
+![Repository languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prtspndy&theme=github&refresh=initial)
+![GitHub contribution streak](https://streak-stats.demolab.com?user=prtspndy&theme=default&hide_border=true&refresh=initial)
 
-![Profile views](https://komarev.com/ghpvc/?username=prtspndy&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=prtspndy&label=Profile%20views&color=0e75b6&style=flat&refresh=initial)
 
 ## Featured work
 
@@ -99,4 +99,4 @@ existing projects, and share useful experiments and open-source work.
 
 Thanks for visiting and exploring my work.
 
-![GitHub contribution activity for prtspndy](https://ghchart.rshah.org/40c463/prtspndy)
+![GitHub contribution activity for prtspndy](https://ghchart.rshah.org/40c463/prtspndy?refresh=initial)
