@@ -4,12 +4,11 @@
 
 # Pritesh Pandya
 
-Portfolio 🔗 : https://pritesh-portfolio-sigma.vercel.app/
+# Hi 👋, I'm Pritesh Pandya
 
-I am a developer from Rajkot, Gujarat, India, building a strong foundation in
-programming and web development through practical projects and open learning.
-I use this profile to document what I learn, experiment with ideas, and share
-my work as it develops.
+I'm an Engineering Student passionate about **Software Development, AI/ML, and Open Source**. I enjoy building practical projects, exploring new technologies, and continuously improving my skills by learning and building in public.
+
+Portfolio 🔗 : https://pritesh-portfolio-sigma.vercel.app/
 
 My current focus is learning **C**, strengthening my **HTML and web-design
 fundamentals**, and building with the JavaScript ecosystem.
