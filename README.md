@@ -2,16 +2,11 @@
   <img src="./assets/profile-banner.svg" alt="Pritesh Pandya - Open Source Contributor and Product Builder" width="100%">
 </p>
 
-# Pritesh Pandya
-
 # Hi 👋, I'm Pritesh Pandya
 
 I'm an Engineering Student passionate about **Software Development, AI/ML, and Open Source**. I enjoy building practical projects, exploring new technologies, and continuously improving my skills by learning and building in public.
 
 Portfolio 🔗 : https://pritesh-portfolio-sigma.vercel.app/
-
-My current focus is learning **C**, strengthening my **HTML and web-design
-fundamentals**, and building with the JavaScript ecosystem.
 
 ## What I am exploring
 
