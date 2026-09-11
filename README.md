@@ -38,14 +38,6 @@ These technologies reflect the projects and learning repositories currently
 visible on my profile, not a fixed list. I expect this section to grow with my
 experience.
 
-## GitHub activity
-
-GitHub's contribution graph appears automatically on my profile. The graph
-below reads the current contribution calendar, while the language card shows
-the repositories currently visible on my profile.
-
-![Repository languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prtspndy&theme=github&refresh=34590296005)
-
 ## Featured work
 
 ### [GlobeTrotter](https://github.com/prtspndy/GlobeTrotter)
@@ -88,5 +80,3 @@ existing projects, and share useful experiments and open-source work.
 - [YouTube](https://youtube.com/@priteshpandya-20)
 
 Thanks for visiting and exploring my work.
-
-![GitHub contribution activity for prtspndy](https://ghchart.rshah.org/40c463/prtspndy?refresh=34590296005)
