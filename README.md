@@ -46,7 +46,7 @@ below add a compact view of recent activity and repository languages.
 ![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prtspndy&theme=github&refresh=34590296005)
 
 ![Repository languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prtspndy&theme=github&refresh=34590296005)
-![GitHub contribution streak](https://streak-stats.demolab.com?user=prtspndy&theme=default&hide_border=true&refresh=34590296005)
+![GitHub contribution streak](https://streak-stats.demolab.com?user=prtspndy&theme=default&hide_border=true&cache_seconds=0&refresh=34590296005)
 
 ![Profile views](https://komarev.com/ghpvc/?username=prtspndy&label=Profile%20views&color=0e75b6&style=flat&refresh=34590296005)
 
