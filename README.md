@@ -2,8 +2,6 @@
 
 I'm an Engineering Student passionate about **Software Development, AI/ML, and Open Source**. I enjoy building practical projects, exploring new technologies, and continuously improving my skills by learning and building in public.
 
-Portfolio 🔗 : https://pritesh-portfolio-sigma.vercel.app/
-
 ## What I am exploring
 
 - Core programming concepts and problem-solving with C
