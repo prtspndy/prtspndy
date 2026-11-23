@@ -2,7 +2,7 @@
 
 I build practical web and mobile apps that make everyday work simpler—from organizing campus communities to planning trips and managing business billing.
 
-[Portfolio](https://pritesh-portfolio-sigma.vercel.app/) · [GitHub](https://github.com/prtspndy) · [X](https://x.com/prtspndy)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/pritesh-pandya-0702prts) · [YouTube](https://youtube.com/@priteshpandya-20) · [Kaggle](https://www.kaggle.com/priteshpandya) · [X](https://x.com/prtspndy) · [GitHub](https://github.com/prtspndy) · [Portfolio](https://pritesh-portfolio-sigma.vercel.app/)
 
 ## Projects
 
