@@ -16,8 +16,3 @@ I build practical web and mobile apps that make everyday work simpler—from org
 | [Happy Diwali](https://github.com/prtspndy/Happy-Diwali) · [Live site](https://happydiwali-pritesh.vercel.app/) | An interactive festive greeting experience celebrating Diwali. |
 | [Incredible India](https://github.com/prtspndy/Incredible-india-website) · [Live site](https://incredible-india-website-self.vercel.app/) | A responsive cultural website exploring India's heritage, traditions, food, and landmarks. |
 | [India Culture Website](https://github.com/prtspndy/India-Culture-Website) | A multi-page, Bootstrap-based introduction to India's culture, cuisine, and historical landmarks. |
-| [Hackathon Guide](https://github.com/prtspndy/Hackathon-guide) | A growing collection of hackathon information, project ideas, and event preparation resources. |
-| [Web Designing](https://github.com/prtspndy/Web-Designing) | HTML practice and notes documenting my web-design learning journey. |
-| [MyCode](https://github.com/prtspndy/MyCode) | My personal archive for coding practice, algorithms, experiments, and small projects. |
-| [C Language](https://github.com/prtspndy/C-language) | Beginner-friendly C exercises and lab work as I learn the language. |
-| [C Calendar 2025](https://github.com/prtspndy/C-Project) | My first C project: a simple calendar for 2025. |
